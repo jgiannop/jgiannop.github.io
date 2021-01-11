@@ -200,3 +200,22 @@ a:hover, a:focus, a:active {
     left:-76px;
     bottom:4px; 
 }
+
+.small_desc{
+  font-size: 12px;
+  margin:0px;
+  padding:0px;
+}
+.experience_item p{
+  margin:0px;
+  padding:4px;
+}
+
+.main_techs{
+  font-size: 12px;
+  margin:0px;
+  font-weight: 700;
+}
+.main_techs_details > ul >li{
+  font-size: 12px;
+}
